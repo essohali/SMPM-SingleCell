@@ -1,4 +1,4 @@
-# Supervised multivariate principal measures — E4.5 single-cell application
+# Supervised multivariate principal measures - E4.5 single-cell application
 
 Reproducibility materials for the chromosome 1 (mm10/GRCm38) E4.5
 single-cell application in the manuscript **“Supervised multivariate principal
