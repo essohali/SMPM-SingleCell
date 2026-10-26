@@ -6,9 +6,7 @@ measures for single-cell point processes.”** This package contains four R
 analysis/validation scripts, prepared inputs, archived numerical outputs,
 Figures 2–3, and a recovered empirical-measure preprocessing script.
 
-**Release status.** Analysis scripts, documentation, figures, and archived numerical results are provided for research reproducibility. Processed input data are not redistributed in this repository pending verification of the applicable data-use conditions. The original study data are available through GEO (GSE277778). End-to-end reproduction from raw sequencing reads has not been independently verified.. This is not a claim of end-to-end
-reproduction from raw sequencing reads or a fresh independent rerun in every
-environment.
+**Release status.** Analysis scripts, documentation, figures, and archived numerical results are provided for research reproducibility. Processed input data are not redistributed in this repository pending verification of the applicable data-use conditions. The original study data are available through GEO (GSE277778). End-to-end reproduction from raw sequencing reads and independent reruns across computing environments have not yet been verified.
 
 ## Study and provenance
 
