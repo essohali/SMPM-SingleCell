@@ -1,6 +1,6 @@
 # Supervised multivariate principal measures — E1–E6
 
-Code and archived Monte Carlo results for **“Supervised multivariate principal measures for single-cell point processes”**.
+Code and archived Monte Carlo results for **“Supervised multivariate principal measures for single-cell point processes”** by Essoham Ali, Adewale Loukman and Ibukun A. Akinyemi.
 
 This repository contains experiments **E1–E6**. The experiment previously labeled *E5-B* is now called **E6**. **No Monte Carlo replications were rerun to prepare this repository.**
 
